@@ -1,0 +1,26 @@
+{
+  "name": "casper",
+  "version": "0.0.1",
+  "description": "A friendly static blog generator",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:qawemlilo/casper.git"
+  },
+  "keywords": [
+    "static",
+    "blog",
+    "generator"
+  ],
+  "author": "Qawelesizwe Mlilo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qawemlilo/casper/issues"
+  },
+  "dependencies": {
+    "nedb": "~0.10.2"
+  }
+}
